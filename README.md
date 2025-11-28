@@ -1,5 +1,7 @@
 28 kasım 2025 06.34
 
+https://we.tl/t-QFryTwy38k (1 aralıga kadar)
+
 V1 çıkardım 
 
 eksikler:
