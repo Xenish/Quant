@@ -1,16 +1,10 @@
-# quant_system
+28 kasım 2025 06.34
 
-A new Flutter project.
+V1 çıkardım 
 
-## Getting Started
+eksikler:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+mobil uygulama ikonu işlememiş
+bidlirim kısmında kritik sevielerdekiler orada gözükmüyor (muhtemelen tek bir bildirim tipine bağladım)
+entegrasyonlar var (sisteme)
+ufak bir yavaşlık sezdim proje v3 de her şey tamamlanınca bakarsın 
